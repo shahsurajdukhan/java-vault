@@ -1,0 +1,1 @@
+Labor are called worker.
