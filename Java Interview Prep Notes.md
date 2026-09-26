@@ -1,1 +1,1 @@
-1. 
+1. Explain your current project, architecture, role, and responsibilities.
