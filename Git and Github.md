@@ -1,4 +1,3 @@
-That's a great idea. Having a Git cheat sheet will save you a lot of time at work. Here's a practical list of the Git commands you'll use most often as a software engineer.
 
 Git Cheat Sheet (Developer Reference)
 
