@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java - 30 Days Challenge/Hashset - Day 1.md",
+                "file": "Java - 30 Days Challenge/HashSet - Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashset - Day 1"
+              "title": "HashSet - Day 1"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d01649fcb38d999d",
@@ -199,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "716df1f2a08591e8",
+  "active": "27655c1e2949cd4c",
   "lastOpenFiles": [
     "CyberSecurity Basics/Basics.md",
-    "Java - 30 Days Challenge/Hashset - Day 1.md",
+    "Java - 30 Days Challenge/HashSet - Day 1.md",
     "Java - 30 Days Challenge",
     "Git and Github.md",
     "Java Syntax - Notes.md",
