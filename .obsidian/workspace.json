@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d01649fcb38d999d",
@@ -202,21 +201,21 @@
   },
   "active": "27655c1e2949cd4c",
   "lastOpenFiles": [
-    "Pasted image 20261006081658.png",
-    "Pasted image 20261006081417.png",
-    "Pasted image 20261006081344.png",
-    "Pasted image 20261006081320.png",
-    "Pasted image 20261006081248.png",
-    "Pasted image 20261006080545.png",
-    "Pasted image 20261006080132.png",
-    "Pasted image 20261006075312.png",
+    "Java Syntax - Notes.md",
+    "Java - 30 Days Challenge/Apache Kafka - Day 2.md",
+    "Java - 30 Days Challenge/Pasted image 20261006081658.png",
+    "Java - 30 Days Challenge/Pasted image 20261006081417.png",
+    "Java - 30 Days Challenge/Pasted image 20261006081344.png",
+    "Java - 30 Days Challenge/Pasted image 20261006081320.png",
+    "Java - 30 Days Challenge/Pasted image 20261006081248.png",
+    "Java - 30 Days Challenge/Pasted image 20261006080545.png",
+    "Java - 30 Days Challenge/Pasted image 20261006080132.png",
+    "Java - 30 Days Challenge/Pasted image 20261006075312.png",
     "Pasted image 20261006075122.png",
     "Java - 30 Days Challenge/HashSet - Day 1.md",
-    "Java - 30 Days Challenge/Apache Kafka - Day 2.md",
     "CyberSecurity Basics/Basics.md",
     "Java - 30 Days Challenge",
     "Git and Github.md",
-    "Java Syntax - Notes.md",
     "Java Interview Prep Notes.md",
     "CyberSecurity Basics",
     "Welcome.md"
