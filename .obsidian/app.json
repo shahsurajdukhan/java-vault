@@ -1,6 +1,6 @@
 {
   "spellcheck": false,
   "readableLineLength": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showInlineTitle": true
 }
