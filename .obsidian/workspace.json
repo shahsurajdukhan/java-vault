@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java - 30 Days Challenge/REST APIs in Java - Day 8.md",
+                "file": "Java - 30 Days Challenge/Collection Framework in Java - Day 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST APIs in Java - Day 8"
+              "title": "Collection Framework in Java - Day 9"
             }
           }
         ],
@@ -258,8 +258,9 @@
   },
   "active": "f13d0915de46a11e",
   "lastOpenFiles": [
-    "Java - 30 Days Challenge/HashSet - Day 1.md",
     "Java - 30 Days Challenge/REST APIs in Java - Day 8.md",
+    "Java - 30 Days Challenge/Collection Framework in Java - Day 9.md",
+    "Java - 30 Days Challenge/HashSet - Day 1.md",
     "Java - 30 Days Challenge/Sanket Springboot Course 2.0 2026.md",
     "Excalidraw/Rough.md",
     "Java - 30 Days Challenge/Untitled",
