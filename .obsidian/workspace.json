@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java - 30 Days Challenge/Collection Framework in Java - Day 9.md",
+                "file": "Java - 30 Days Challenge/Java Features and Java Applications - Day 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collection Framework in Java - Day 9"
+              "title": "Java Features and Java Applications - Day 10"
             }
           }
         ],
@@ -258,8 +258,10 @@
   },
   "active": "f13d0915de46a11e",
   "lastOpenFiles": [
-    "Java - 30 Days Challenge/REST APIs in Java - Day 8.md",
+    "Java - 30 Days Challenge/Exception Handling in Java - Day 6.md",
+    "Java - 30 Days Challenge/Java Features and Java Applications - Day 10.md",
     "Java - 30 Days Challenge/Collection Framework in Java - Day 9.md",
+    "Java - 30 Days Challenge/REST APIs in Java - Day 8.md",
     "Java - 30 Days Challenge/HashSet - Day 1.md",
     "Java - 30 Days Challenge/Sanket Springboot Course 2.0 2026.md",
     "Excalidraw/Rough.md",
@@ -267,7 +269,6 @@
     "Excalidraw/Drawing 2026-10-17 14.32.03.excalidraw.md",
     "Java - 30 Days Challenge/Multithreading in Java - Day 7.md",
     "Excalidraw",
-    "Java - 30 Days Challenge/Exception Handling in Java - Day 6.md",
     "Java - 30 Days Challenge/Types of Classes in Java - Day 5.md",
     "Java - 30 Days Challenge/JPA & Hibernate - Day 4.md",
     "Java - 30 Days Challenge/gRPC - Day 3.md",
