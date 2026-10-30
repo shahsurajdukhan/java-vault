@@ -15,3 +15,12 @@ FileOutputStream is used to create a file and write data into it. The stream wou
 Creating File Using File.createNewFile() Method allows to create a file in given location or in current directory as follows - 
 File file = new File ()
 
+
+Java - Writing to File
+We can write to a file in java using multiple ways
+Using FileOutputStream() Constructor
+FileWriter.write() method
+Files.write() method 
+
+Write to file using FileOutputStream is used to create a file and write into it.
+The stream would create a file, if it doesn't already exists, before opening it for output.
