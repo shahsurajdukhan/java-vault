@@ -1,0 +1,9 @@
+1. What is Java - Java is a popular high-level, object oriented programming language developed by Sun Micro systems in 1995.
+2. What is WORA in Java - WORA stands for Write Once Run Anywhere, this means that compiled java code can run on all platforms that support java without the need to recompile.
+3. Different Features of Java - Object Oriented, Platform Independent, Easy to Learn, Secure, Architectural-Neutral, Portable, Robust, Multithreading, High performance, Distributed.
+4. Different Applications of Java - Enterprise Solutions, Game development, Secure Web Development, Embedded Systems, Mobile Application development, Big Data Applications, and many more...
+5. What is JVM - Java Virtual Machine is a virtual machine, an abstract computer that has its own ISA, Memory, Stack, Heap, etc. It runs on the host OS and places its demands for resources on it.
+6. Types of Modifiers in Java - It is possible to modify classes, methods, etc.. by using modifiers. There are two categories of modifiers 1. Access Modifiers - default, public, protected, private. 2.  Non-access Modifiers - Final , abstract , strictfp
+7. What is Java ENUMS - Enums restrict a variable to have one of only a few predefined values. The values in this enumerated list are called enums.
+   for ex : if we consider an application for a fresh juice shop, it would be possible to restrict the glass size to small,medium, and large. This would make sure that it would not allow anyone to order any size other than small,medium, or large.
+8. Types of Java Variables - there are 3 types 1. Local Variables 2. Instance variables 3. Class/Static variables

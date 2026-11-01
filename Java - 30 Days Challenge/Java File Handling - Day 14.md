@@ -180,7 +180,7 @@ Using FileReader directly, you might read one character at a time.
 BufferedReader uses an internal buffer to reduce expensive underlying read operations.
 
 ---
-### What is Exception Handling in File Handling?\
+### What is Exception Handling in File Handling?
 File operations can fail for several reasons:
 - File does not exist
 - File permission is denied
