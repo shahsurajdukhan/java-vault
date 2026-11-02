@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d58262bdf0ede90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java - 30 Days Challenge/Java File Handling - Day 14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java File Handling - Day 14"
-            }
-          },
-          {
-            "id": "2c3cffb7422816ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java - 30 Days Challenge/Java Interfaces - Day 12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java Interfaces - Day 12"
-            }
-          },
-          {
             "id": "d7aacbcf63d617a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java - 30 Days Challenge/Java Revision - Day 16.md",
+                "file": "Java - 30 Days Challenge/Java Networking - Day 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Revision - Day 16"
+              "title": "Java Networking - Day 17"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,9 +203,10 @@
   },
   "active": "d7aacbcf63d617a1",
   "lastOpenFiles": [
-    "Java - 30 Days Challenge/Java Interfaces - Day 12.md",
     "Java - 30 Days Challenge/Java File Handling - Day 14.md",
+    "Java - 30 Days Challenge/Java Networking - Day 17.md",
     "Java - 30 Days Challenge/Java Revision - Day 16.md",
+    "Java - 30 Days Challenge/Java Interfaces - Day 12.md",
     "Java - 30 Days Challenge/Java Thread Synchronization - Day 15.md",
     "Java - 30 Days Challenge/Java File Handling - Day 13.md",
     "Java - 30 Days Challenge/Java Constructors - Day 11.md",
