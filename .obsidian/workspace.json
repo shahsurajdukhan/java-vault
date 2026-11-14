@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java - 30 Days Challenge/Java Networking - Day 17.md",
+                "file": "Java - 30 Days Challenge/Spring Boot Basics - Day 18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Networking - Day 17"
+              "title": "Spring Boot Basics - Day 18"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5141716003418
+    "width": 343.5141716003418,
+    "collapsed": true
   },
   "right": {
     "id": "d01649fcb38d999d",
@@ -203,23 +204,25 @@
   },
   "active": "d7aacbcf63d617a1",
   "lastOpenFiles": [
-    "Java - 30 Days Challenge/Java File Handling - Day 14.md",
+    "SpringBoot 1 hr revision.md",
     "Java - 30 Days Challenge/Java Networking - Day 17.md",
-    "Java - 30 Days Challenge/Java Revision - Day 16.md",
-    "Java - 30 Days Challenge/Java Interfaces - Day 12.md",
     "Java - 30 Days Challenge/Java Thread Synchronization - Day 15.md",
-    "Java - 30 Days Challenge/Java File Handling - Day 13.md",
-    "Java - 30 Days Challenge/Java Constructors - Day 11.md",
-    "Java - 30 Days Challenge/Java Features and Java Applications - Day 10.md",
-    "Java - 30 Days Challenge/Collection Framework in Java - Day 9.md",
     "Java - 30 Days Challenge/REST APIs in Java - Day 8.md",
-    "Java - 30 Days Challenge/Multithreading in Java - Day 7.md",
-    "Java - 30 Days Challenge/Exception Handling in Java - Day 6.md",
-    "Java - 30 Days Challenge/Types of Classes in Java - Day 5.md",
-    "Java - 30 Days Challenge/JPA & Hibernate - Day 4.md",
-    "Java - 30 Days Challenge/gRPC - Day 3.md",
-    "Java - 30 Days Challenge/Apache Kafka - Day 2.md",
     "Java - 30 Days Challenge/HashSet - Day 1.md",
+    "Java - 30 Days Challenge/Types of Classes in Java - Day 5.md",
+    "Java - 30 Days Challenge/Spring Boot Basics - Day 18.md",
+    "Java - 30 Days Challenge/Java Revision - Day 16.md",
+    "Java - 30 Days Challenge/JPA & Hibernate - Day 4.md",
+    "Java - 30 Days Challenge/Multithreading in Java - Day 7.md",
+    "Java - 30 Days Challenge/Java Interfaces - Day 12.md",
+    "Java - 30 Days Challenge/Java File Handling - Day 14.md",
+    "Java - 30 Days Challenge/Java File Handling - Day 13.md",
+    "Java - 30 Days Challenge/Java Features and Java Applications - Day 10.md",
+    "Java - 30 Days Challenge/Apache Kafka - Day 2.md",
+    "Java - 30 Days Challenge/Collection Framework in Java - Day 9.md",
+    "Java - 30 Days Challenge/Exception Handling in Java - Day 6.md",
+    "Java - 30 Days Challenge/gRPC - Day 3.md",
+    "Java - 30 Days Challenge/Java Constructors - Day 11.md",
     "Java - 30 Days Challenge/MySQL Revision.md",
     "Pasted image 20261101123600.png",
     "Excalidraw/Rough.md",
@@ -241,8 +244,6 @@
     "CyberSecurity Basics/Basics.md",
     "Java - 30 Days Challenge",
     "Git and Github.md",
-    "Java Interview Prep Notes.md",
-    "CyberSecurity Basics",
-    "Welcome.md"
+    "CyberSecurity Basics"
   ]
 }
